@@ -1,0 +1,24 @@
+ul{
+    padding:0;
+    margin:0;
+}
+.menu-line {
+    background: #0089d0;
+    display: block;
+
+}
+.menu-line ul li{
+    display: inline;
+    padding: 8px;
+    
+}
+.menu-line ul li a{
+    color:#fff;
+    font-size: 1.1em;
+    text-decoration: none;
+}
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
